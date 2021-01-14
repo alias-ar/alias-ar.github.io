@@ -1,2 +1,6 @@
-# alias-ar.github.io
-https://alias.ar
+# [alias.ar]
+
+un alias para cada argentine.
+
+
+[alias.ar]: https://alias.ar
