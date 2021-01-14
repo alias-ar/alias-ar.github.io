@@ -1,6 +1,6 @@
 # [alias.ar]
 
-un alias para cada argentine.
+tu alias gratis en Argentina
 
 
 [alias.ar]: https://alias.ar
